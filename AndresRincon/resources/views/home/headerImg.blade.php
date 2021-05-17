@@ -10,7 +10,7 @@
                             "Nunca pares de aprender. El paso más difícil es el primero"
                         </p>
                         <p>
-                            Andrés Rincón - Fullstack web developer
+                            <strong> Andrés Rincón </strong>- Fullstack web developer
                         </p>
                         <a href="" class="btn btn-primary mx-auto"><i class="fab fa-github"></i> GitHub</a>
                     </div>

@@ -4,4 +4,10 @@
     <section>
         @include('home.perfil')
     </section>
+    <section>
+        @include('home.tecnologias')
+    </section>
+    <section>
+        @include('home.proyectos')
+    </section>
 @endsection
