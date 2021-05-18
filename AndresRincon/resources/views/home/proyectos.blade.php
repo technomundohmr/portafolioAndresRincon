@@ -6,18 +6,20 @@
     </div>
     <div class="row">
         <div class="col">
-            <table class="table table-bordered text-center">
-                <thead class="table-secondary">
-                    <tr>
-                        <th>Proyecto</th>
-                        <th>Descripción</th>
-                        <th>Enlaces</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    
-                </tbody>
-            </table>
+            <div class="table-responsive">
+                <table class="table table-bordered text-center">
+                    <thead class="table-secondary">
+                        <tr>
+                            <th>Proyecto</th>
+                            <th>Descripción</th>
+                            <th>Enlaces</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        
+                    </tbody>
+                </table>
+            </div>
         </div>
     </div>
 </div>

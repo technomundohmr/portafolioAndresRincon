@@ -10,4 +10,7 @@
     <section>
         @include('home.proyectos')
     </section>
+    <section>
+        @include('home.contacto')
+    </section>
 @endsection
