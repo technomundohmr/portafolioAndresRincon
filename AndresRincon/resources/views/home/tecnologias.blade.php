@@ -1,4 +1,4 @@
-<div class="tecnologias tecnologias-light my-3 py-5">
+<div class="tecnologias tecnologias-light my-3 py-5" id="tecnologias">
     <div class="container">
         <div class="row">
             <div class="col-md-4 my-5">

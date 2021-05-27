@@ -33,6 +33,26 @@
     border-bottom-left-radius: 10px;
     padding: 0.7em;
 }
+.btnLight:hover{
+    cursor: pointer;
+}
+.btnDark{
+    position: fixed;
+    top: 15%;
+    right: 0;
+    background-color:white;
+    color: black;
+    border: 1px solid black;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    padding: 0.7em;
+}
+.btnDark:hover{
+    cursor: pointer;
+}
+.btnIdioma:hover{
+    cursor: pointer;
+}
 .btnIdioma{
     position: fixed;
     top: 35%;
@@ -47,7 +67,30 @@
     background: #abbaab;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #ffffff, #abbaab);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #ffffff, #abbaab); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
+}
+.tecnologias-dark{
+    background: #0F2027;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.datosContacto{
+    border-right: 1px solid gray;
+}
+.perfil-dark{
+    background-color: black;
+    color: white;
+}
+.contacto-dark{
+    background: #0F2027;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.margen{
+    margin-top: 100px;
+}
+.formulariologin{
+    border: 1px solid blue;
+    border-radius: 2em;
 }
 @media(max-width:640px){
     .mensaje{

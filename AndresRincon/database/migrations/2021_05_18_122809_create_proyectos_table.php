@@ -19,6 +19,7 @@ class CreateProyectosTable extends Migration
             $table->text('descripcion');
             $table->string('enlace');
             $table->string('git')->nullable();
+            $table->string('idioma');
             $table->timestamps();
         });
     }

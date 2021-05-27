@@ -5,14 +5,14 @@
                 <div class="col-md-6">
                 </div>
                 <div class="col-md-6">
-                    <div class="mensaje light-menu text-center">
+                    <div class="mensaje light-menu text-center" id="homeHeader">
                         <p class="fst-italic ">
                             "Nunca pares de aprender. El paso más difícil es el primero"
                         </p>
                         <p>
                             <strong> Andrés Rincón </strong>- Fullstack web developer
                         </p>
-                        <a href="" class="btn btn-primary mx-auto"><i class="fab fa-github"></i> GitHub</a>
+                        <a href="https://github.com/technomundohmr" class="btn btn-primary mx-auto" target="_blank"><i class="fab fa-github"></i> GitHub</a>
                     </div>
                 </div>
             </div>
